@@ -109,8 +109,8 @@ footer p {
 .sql {
     background-image: url(assets/logos/mysql.png);
 }
-.docker {
-    background-image: url(assets/logos/docker.png);
+.webpack {
+    background-image: url(assets/logos/webpack.png);
 }
 
 
